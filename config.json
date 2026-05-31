@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdecrypt",
+        "uuid": 10503528,
+        "checksum": "4d0pf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
